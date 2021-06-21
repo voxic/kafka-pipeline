@@ -45,10 +45,6 @@ kubectl apply -f <path to file>
 
 [1_namespace.yaml](1_namespace.yaml)
 
-#### MQTT
-
-* Todo
-
 #### Node-red
 
 * Todo
@@ -79,7 +75,11 @@ Once Kafka UI is deployed use
 kubectl get service -n kafka-cluster
 ```
 
-To get the external IP of the Kafak UI. 
+To get the external IP of the Kafak UI.
+
+#### MQTT
+
+* [7_mqttDeployment.yaml](7_mqttDeployment.yaml)
 
 ### Kafka
 
