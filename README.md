@@ -89,3 +89,4 @@ I used Kafka UI to create a kafka topic.
 ### Node-red
 
 I used Node-red to tie the pipeline together.
+!["node-red"](nodered.png)
