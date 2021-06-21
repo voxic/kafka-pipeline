@@ -55,7 +55,7 @@ kubectl apply -f <path to file>
 
 #### Zookeeper
 
-[2_zookeeperDeployment.yaml](2_zookeeperDeployment.yaml)
+[2_zookeeperDeployment.yaml](2_zookeeperDeployment.yaml)  
 [3_zookeeperService.yaml](3_zookeeperService.yaml)
 
 #### Kafka
